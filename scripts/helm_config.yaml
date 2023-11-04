@@ -1,0 +1,3 @@
+server:
+  remoteWrite:
+    - url: 'http://host.minikube.internal:5000/'

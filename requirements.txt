@@ -1,0 +1,5 @@
+flask
+prometheus-client
+protobuf
+python-snappy
+pyyaml
