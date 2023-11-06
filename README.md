@@ -70,8 +70,8 @@ similar solution a bit more error-prone.
 
 Third, though, the brevity of the code required for basic
 integration with Prometheus once all the magic incantations
-were known is quite striking. Compared with the monstrosity
-of poorly-understood code that must run in the customer
+were known is quite striking. Compared with the amount of 
+code that must run in the customer
 env that is our amazon-cloudwatch-agent, this is tiny and
 can run in our accounts. This alone very much does
 suggest to me that the way forward may be promising from
